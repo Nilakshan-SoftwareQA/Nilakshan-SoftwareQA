@@ -7,6 +7,9 @@
   </p>
 
   <div align="center">
+    <img src="https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge" alt="Manual Testing" />
+    <img src="https://img.shields.io/badge/Web%20Application%20Testing-2196F3?style=for-the-badge" alt="Web Testing" />
+    <img src="https://img.shields.io/badge/Mobile%20Testing-FF9800?style=for-the-badge" alt="Mobile Testing" />
     <img src="https://img.shields.io/badge/Playwright-Automation-2CA5E0?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Test_Automation-FF6F00?style=for-the-badge" alt="Test Automation" />
