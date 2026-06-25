@@ -22,7 +22,7 @@
 
 ### 👨‍💼 About Me
 
-- Currently working as **Test Analyst** at **UBS Bank, Switzerland** (Contract)
+- Worked as **Test Analyst** at **UBS Bank, Switzerland**
 - Over **9 years** of hands-on experience in Manual Testing, Automation Testing, and Quality Assurance
 - Strong domain knowledge in **Core Banking, Wealth Management, Payment Systems, and Client Onboarding**
 - Experienced in regulated banking environments with deep understanding of **KYC, AML, GDPR, and MiFID II**
