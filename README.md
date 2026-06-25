@@ -10,6 +10,20 @@
   <img src="https://img.shields.io/badge/Python-Testing-blue" alt="Python" />
   <img src="https://img.shields.io/badge/Banking%20Domain-Expert-green" alt="Banking" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-blueviolet" alt="Open to Work" />
+  <div align="center">
+
+  <img src="https://img.shields.io/badge/Playwright-Automation-2CA5E0?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF9800?style=for-the-badge" alt="API Testing" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Banking%20Domain-Expert-1565C0?style=for-the-badge" alt="Banking" />
+  <img src="https://img.shields.io/badge/9%2B%20Years%20QA%20Experience-8E24AA?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge" alt="Open to Opportunities" />
+
+</div>
+  
 
 </div>
 
